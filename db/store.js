@@ -1,8 +1,6 @@
 // import fs module
 const fs = require("fs");
 
-
-//define class Store to handle reading, writing, retrieving notes, add and delete notes
 class Store {
 
   //read data from db.json file
